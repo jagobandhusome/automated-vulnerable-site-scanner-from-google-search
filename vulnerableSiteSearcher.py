@@ -113,7 +113,7 @@ def insert_into_db(urls):
                 continue
 
             payload = {
-                "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+                "api_key": "aaaaaaaaaaaa",
                 "siteaddress": url,
                 "stat": 1
             }
@@ -234,7 +234,7 @@ if __name__ == "__main__":
 #     for url in urls:
 #         try:
 #             payload = {
-#                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+#                 "api_key": "aaaaaaaaaa",
 #                 "siteaddress": url,
 #                 "stat": 1
 #             }
@@ -301,8 +301,8 @@ if __name__ == "__main__":
 # import time
 
 # # Replace with your Google API Key and Custom Search Engine ID
-# API_KEY = "AIzaSyDNm5ZunFGOYUxVm2zUiBLE4izXIZhJ0x8"
-# CSE_ID = "666b716c0785b40b3"
+# API_KEY = "aaaaaaaa"
+# CSE_ID = "aaaaaaaa"
 
 # # Single Google Dork for testing
 # GOOGLE_DORK = "inurl:wp-login.php"
@@ -343,7 +343,7 @@ if __name__ == "__main__":
 #     for url in urls:
 #         try:
 #             payload = {
-#                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+#                 "api_key": "aaaaaaaaaa",
 #                 "siteaddress": url,
 #                 "stat": 1
 #             }
@@ -362,7 +362,7 @@ if __name__ == "__main__":
 # #     for url in urls:
 # #         try:
 # #             payload = {
-# #                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+# #                 "api_key": "aaaaaaaaaaaa",
 # #                 "siteaddress": url,
 # #                 "stat": 1
 # #             }
@@ -430,7 +430,7 @@ if __name__ == "__main__":
 # import requests
 # import time
 
-# API_KEY = "AIzaSyDNm5ZunFGOYUxVm2zUiBLE4izXIZhJ0x8"
+# API_KEY = "aaaaaaaaa"
 # CSE_ID = "666b716c0785b40b3"
 
 # GOOGLE_DORK = "inurl:wp-login.php"
@@ -461,7 +461,7 @@ if __name__ == "__main__":
 #     for url in urls:
 #         try:
 #             payload = {
-#                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+#                 "api_key": "aaaaaaaa",
 #                 "siteaddress": url,
 #                 "stat": 1
 #             }
@@ -523,8 +523,8 @@ if __name__ == "__main__":
 # import time
 
 # # Replace with your Google API Key and Custom Search Engine ID
-# API_KEY = "AIzaSyDNm5ZunFGOYUxVm2zUiBLE4izXIZhJ0x8"
-# CSE_ID = "666b716c0785b40b3"
+# API_KEY = "aaaaaaa"
+# CSE_ID = "aaaaaaa"
 
 # # Google Dork for searching vulnerable WordPress sites
 # GOOGLE_DORK = "inurl:wp-login.php"  # Specify the single dork to use
@@ -572,7 +572,7 @@ if __name__ == "__main__":
 #     for url in urls:
 #         try:
 #             payload = {
-#                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+#                 "api_key": "aaaaaaaaa",
 #                 "siteaddress": url,
 #                 "stat": 1
 #             }
@@ -634,8 +634,8 @@ if __name__ == "__main__":
 # import time
 
 # # Replace with your Google API Key and Custom Search Engine ID
-# API_KEY = "AIzaSyDNm5ZunFGOYUxVm2zUiBLE4izXIZhJ0x8"
-# CSE_ID = "666b716c0785b40b3"
+# API_KEY = "aaaaaaaaaaaa"
+# CSE_ID = "aaaaaaaaaaa"
 
 # # List of Google Dorks for searching vulnerable WordPress sites
 # GOOGLE_DORKS = [
@@ -697,7 +697,7 @@ if __name__ == "__main__":
 #     for url in urls:
 #         try:
 #             payload = {
-#                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+#                 "api_key": "aaaaaaaaaaaaaaaa",
 #                 "siteaddress": url,
 #                 "stat": 1
 #             }
@@ -764,8 +764,8 @@ if __name__ == "__main__":
 # import time
 
 # # Replace with your Google API Key and Custom Search Engine ID
-# API_KEY = "AIzaSyDNm5ZunFGOYUxVm2zUiBLE4izXIZhJ0x8"
-# CSE_ID = "666b716c0785b40b3"
+# API_KEY = "aaaaaaaaaaaaaaaaa"
+# CSE_ID = "aaaaaaaaaaa"
 
 # # List of Google Dorks for searching vulnerable WordPress sites
 # GOOGLE_DORKS = [
@@ -812,7 +812,7 @@ if __name__ == "__main__":
 #     for url in urls:
 #         try:
 #             payload = {
-#                 "api_key": "f2441e3810rt5612xu018tumsqHT34dd7f8f6995df9",
+#                 "api_key": "aaaaaaaaaaaaaaaaaaaaa",
 #                 "siteaddress": url,
 #                 "stat": 1
 #             }
